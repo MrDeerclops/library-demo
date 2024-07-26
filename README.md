@@ -1,5 +1,4 @@
 # Library Demo
-### by Musiienko Oleksandr (a.k.a. white-rabbit)
 
 #### Api Documentation
 If run locally, you can access Swagger API docs via link
